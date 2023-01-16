@@ -166,7 +166,42 @@
         .skill-description {
             color: #757575;
         }
+        /* resume style */
         
         .resume-title {
+            text-align: center;
+            margin-bottom: 30px;
+            margin-top: 10px;
+            font-size: 20px;
+            font-weight: 700;
+        }
+        
+        .resume-content {
+            display: flex;
+            text-align: center;
+            gap: 24px;
+        }
+        
+        .resume .title {
+            color: #474747;
+        }
+        
+        .resume .sub-title {
+            color: #757575;
+            font-weight: 600;
+            font-size: 20px;
+        }
+        
+        .resume .description {
+            color: #757575;
+        }
+        
+        .resume-item {
+            margin-bottom: 30px;
+            margin-top: 30px;
+        }
+        
+        .resume-button {
+            margin-top: 50px;
             text-align: center;
         }
