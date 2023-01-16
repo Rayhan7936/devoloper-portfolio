@@ -14,7 +14,7 @@
                 color: #000;
                 display: flex;
                 justify-content: space-between;
-                margin: 60px 200px
+                padding: 50px 200px
             }
             
             nav ul {
