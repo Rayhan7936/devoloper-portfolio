@@ -168,8 +168,15 @@
             }
             /* resume style */
             
-            .resume-title {
+            .resume-my {
                 text-align: center;
+                margin: 20px;
+                font-size: 30px;
+                font-weight: 300;
+            }
+            
+            .resume-title {
+                text-align: left;
                 margin-bottom: 30px;
                 margin-top: 10px;
                 font-size: 20px;
@@ -178,22 +185,26 @@
             
             .resume-content {
                 display: flex;
-                text-align: center;
+                text-align: left;
                 gap: 24px;
+                padding: 10px;
             }
             
             .resume .title {
                 color: #474747;
+                text-align: left;
             }
             
             .resume .sub-title {
                 color: #757575;
                 font-weight: 600;
                 font-size: 20px;
+                text-align: left;
             }
             
             .resume .description {
                 color: #757575;
+                te
             }
             
             .resume-item {
